@@ -5,7 +5,7 @@ public class Student {
     }
 
     public static String getName(){
-        String name = "";
+        String name = "Kyndall";
         return name;
     }
 

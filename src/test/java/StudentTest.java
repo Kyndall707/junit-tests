@@ -10,7 +10,9 @@ public class StudentTest {
 
     @Test
     public void ifItReturnsAString(){
-
+        String expected = "Kyndall";
+        String name = "Kyndall";
+        assertEquals(expected, name);
     }
 
     @Test
